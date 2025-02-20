@@ -51,3 +51,7 @@ This project is a part of the Online Shop Hackathon, where I successfully deploy
 
 ## **Conclusion**  
 By implementing Docker and DevOps methodologies, I have efficiently deployed the Online Shop application in a containerized environment on AWS EC2.  
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/f677b5c8-cc7e-4aef-b12b-6e6e37ec0aa6" />
+
+
+
